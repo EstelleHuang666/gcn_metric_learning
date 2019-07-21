@@ -23,7 +23,7 @@ from nilearn import connectome
 
 
 # Output path
-save_path = '/vol/dhcp-hcp-data/ABIDE'
+save_path = '/home/libi/HDD1/huan1282/tmp/abide/'
 
 # Number of subjects
 num_subjects = 1000
